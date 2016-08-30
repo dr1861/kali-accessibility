@@ -1,0 +1,29 @@
+##############################################
+#	File: synthesizers.list.chroot
+#	Author: Donald Raikes <don-raikes@outlook.com>
+#	Date: 08/30/2016
+##############################################
+
+# The festival synthesizer
+festival
+festival-ca 
+festival-czech 
+festival-dev
+festival-freebsoft-utils
+festival-hi
+festival-mr
+festival-te
+
+# The flite synthesizer:
+brltty-flite 
+eflite
+flite 
+flite1-dev
+libflite1
+pd-flite 
+
+# the SVOX Pico synthesizer
+libttspico-data
+libttspico-dev
+libttspico-utils
+libttspico0
